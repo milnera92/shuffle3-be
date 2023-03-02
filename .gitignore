@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# Build output
+build/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Testing
+coverage/
+
+# IDEs and editors
+.idea/
+.vscode/

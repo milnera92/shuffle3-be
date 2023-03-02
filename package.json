@@ -1,0 +1,24 @@
+{
+  "name": "shuffle3-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milnera92/shuffle3-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milnera92/shuffle3-be/issues"
+  },
+  "homepage": "https://github.com/milnera92/shuffle3-be#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "rss-parser": "^3.12.0"
+  }
+}
